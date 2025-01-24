@@ -1,4 +1,4 @@
-# Étude Numérique d'une Intégrale Complexe
+# Étude Numérique d'une Intégrale Complexe de Mouvement du Pendule Simple
 
 Ce projet explore la résolution numérique d'une intégrale complexe en utilisant des méthodes d'approximation telles que **la méthode des trapèzes** et **la méthode de Simpson**. Les résultats incluent une comparaison des valeurs calculées, une analyse des erreurs et des graphiques illustrant la convergence des méthodes.
 
